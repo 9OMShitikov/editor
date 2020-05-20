@@ -7,7 +7,25 @@ CMakeFiles/editor.dir/Button/Button.cpp.o: ../EnterText/EnterText.h
 CMakeFiles/editor.dir/Button/Button.cpp.o: ../InteractionWindows/QuestionWindow.h
 CMakeFiles/editor.dir/Button/Button.cpp.o: ../Menu/Menu.h
 
+CMakeFiles/editor.dir/Button/FileButton.cpp.o: ../Button/Button.h
+CMakeFiles/editor.dir/Button/FileButton.cpp.o: ../Button/FileButton.cpp
+CMakeFiles/editor.dir/Button/FileButton.cpp.o: ../Button/FileButton.h
+CMakeFiles/editor.dir/Button/FileButton.cpp.o: ../Button/TextureButton.h
+CMakeFiles/editor.dir/Button/FileButton.cpp.o: ../DrawingField/DrawingField.h
+CMakeFiles/editor.dir/Button/FileButton.cpp.o: ../EnterText/EnterText.h
+CMakeFiles/editor.dir/Button/FileButton.cpp.o: ../InteractionWindows/QuestionWindow.h
+CMakeFiles/editor.dir/Button/FileButton.cpp.o: ../Menu/Menu.h
+CMakeFiles/editor.dir/Button/FileButton.cpp.o: ../ObjectsPalette/ObjectsPalette.h
+
+CMakeFiles/editor.dir/Button/TextureButton.cpp.o: ../Button/Button.h
+CMakeFiles/editor.dir/Button/TextureButton.cpp.o: ../Button/TextureButton.cpp
+CMakeFiles/editor.dir/Button/TextureButton.cpp.o: ../Button/TextureButton.h
+CMakeFiles/editor.dir/Button/TextureButton.cpp.o: ../EnterText/EnterText.h
+CMakeFiles/editor.dir/Button/TextureButton.cpp.o: ../InteractionWindows/QuestionWindow.h
+CMakeFiles/editor.dir/Button/TextureButton.cpp.o: ../Menu/Menu.h
+
 CMakeFiles/editor.dir/DrawingField/DrawingField.cpp.o: ../Button/Button.h
+CMakeFiles/editor.dir/DrawingField/DrawingField.cpp.o: ../Button/TextureButton.h
 CMakeFiles/editor.dir/DrawingField/DrawingField.cpp.o: ../DrawingField/DrawingField.cpp
 CMakeFiles/editor.dir/DrawingField/DrawingField.cpp.o: ../DrawingField/DrawingField.h
 CMakeFiles/editor.dir/DrawingField/DrawingField.cpp.o: ../EnterText/EnterText.h
@@ -29,6 +47,7 @@ CMakeFiles/editor.dir/Menu/Menu.cpp.o: ../Menu/Menu.cpp
 CMakeFiles/editor.dir/Menu/Menu.cpp.o: ../Menu/Menu.h
 
 CMakeFiles/editor.dir/ObjectsPalette/ObjectsPalette.cpp.o: ../Button/Button.h
+CMakeFiles/editor.dir/ObjectsPalette/ObjectsPalette.cpp.o: ../Button/TextureButton.h
 CMakeFiles/editor.dir/ObjectsPalette/ObjectsPalette.cpp.o: ../EnterText/EnterText.h
 CMakeFiles/editor.dir/ObjectsPalette/ObjectsPalette.cpp.o: ../InteractionWindows/QuestionWindow.h
 CMakeFiles/editor.dir/ObjectsPalette/ObjectsPalette.cpp.o: ../Menu/Menu.h
@@ -36,6 +55,8 @@ CMakeFiles/editor.dir/ObjectsPalette/ObjectsPalette.cpp.o: ../ObjectsPalette/Obj
 CMakeFiles/editor.dir/ObjectsPalette/ObjectsPalette.cpp.o: ../ObjectsPalette/ObjectsPalette.h
 
 CMakeFiles/editor.dir/main.cpp.o: ../Button/Button.h
+CMakeFiles/editor.dir/main.cpp.o: ../Button/FileButton.h
+CMakeFiles/editor.dir/main.cpp.o: ../Button/TextureButton.h
 CMakeFiles/editor.dir/main.cpp.o: ../DrawingField/DrawingField.h
 CMakeFiles/editor.dir/main.cpp.o: ../EnterText/EnterText.h
 CMakeFiles/editor.dir/main.cpp.o: ../InteractionWindows/QuestionWindow.h

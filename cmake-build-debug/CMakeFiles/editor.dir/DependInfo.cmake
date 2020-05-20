@@ -5,6 +5,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/oleg/Public/Oleg/course_2/ded/editor/Button/Button.cpp" "/home/oleg/Public/Oleg/course_2/ded/editor/cmake-build-debug/CMakeFiles/editor.dir/Button/Button.cpp.o"
+  "/home/oleg/Public/Oleg/course_2/ded/editor/Button/FileButton.cpp" "/home/oleg/Public/Oleg/course_2/ded/editor/cmake-build-debug/CMakeFiles/editor.dir/Button/FileButton.cpp.o"
+  "/home/oleg/Public/Oleg/course_2/ded/editor/Button/TextureButton.cpp" "/home/oleg/Public/Oleg/course_2/ded/editor/cmake-build-debug/CMakeFiles/editor.dir/Button/TextureButton.cpp.o"
   "/home/oleg/Public/Oleg/course_2/ded/editor/DrawingField/DrawingField.cpp" "/home/oleg/Public/Oleg/course_2/ded/editor/cmake-build-debug/CMakeFiles/editor.dir/DrawingField/DrawingField.cpp.o"
   "/home/oleg/Public/Oleg/course_2/ded/editor/EnterText/EnterText.cpp" "/home/oleg/Public/Oleg/course_2/ded/editor/cmake-build-debug/CMakeFiles/editor.dir/EnterText/EnterText.cpp.o"
   "/home/oleg/Public/Oleg/course_2/ded/editor/InteractionWindows/NotificationWindow.cpp" "/home/oleg/Public/Oleg/course_2/ded/editor/cmake-build-debug/CMakeFiles/editor.dir/InteractionWindows/NotificationWindow.cpp.o"

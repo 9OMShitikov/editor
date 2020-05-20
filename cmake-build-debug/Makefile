@@ -150,6 +150,60 @@ Button/Button.cpp.s:
 	$(MAKE) -f CMakeFiles/editor.dir/build.make CMakeFiles/editor.dir/Button/Button.cpp.s
 .PHONY : Button/Button.cpp.s
 
+Button/FileButton.o: Button/FileButton.cpp.o
+
+.PHONY : Button/FileButton.o
+
+# target to build an object file
+Button/FileButton.cpp.o:
+	$(MAKE) -f CMakeFiles/editor.dir/build.make CMakeFiles/editor.dir/Button/FileButton.cpp.o
+.PHONY : Button/FileButton.cpp.o
+
+Button/FileButton.i: Button/FileButton.cpp.i
+
+.PHONY : Button/FileButton.i
+
+# target to preprocess a source file
+Button/FileButton.cpp.i:
+	$(MAKE) -f CMakeFiles/editor.dir/build.make CMakeFiles/editor.dir/Button/FileButton.cpp.i
+.PHONY : Button/FileButton.cpp.i
+
+Button/FileButton.s: Button/FileButton.cpp.s
+
+.PHONY : Button/FileButton.s
+
+# target to generate assembly for a file
+Button/FileButton.cpp.s:
+	$(MAKE) -f CMakeFiles/editor.dir/build.make CMakeFiles/editor.dir/Button/FileButton.cpp.s
+.PHONY : Button/FileButton.cpp.s
+
+Button/TextureButton.o: Button/TextureButton.cpp.o
+
+.PHONY : Button/TextureButton.o
+
+# target to build an object file
+Button/TextureButton.cpp.o:
+	$(MAKE) -f CMakeFiles/editor.dir/build.make CMakeFiles/editor.dir/Button/TextureButton.cpp.o
+.PHONY : Button/TextureButton.cpp.o
+
+Button/TextureButton.i: Button/TextureButton.cpp.i
+
+.PHONY : Button/TextureButton.i
+
+# target to preprocess a source file
+Button/TextureButton.cpp.i:
+	$(MAKE) -f CMakeFiles/editor.dir/build.make CMakeFiles/editor.dir/Button/TextureButton.cpp.i
+.PHONY : Button/TextureButton.cpp.i
+
+Button/TextureButton.s: Button/TextureButton.cpp.s
+
+.PHONY : Button/TextureButton.s
+
+# target to generate assembly for a file
+Button/TextureButton.cpp.s:
+	$(MAKE) -f CMakeFiles/editor.dir/build.make CMakeFiles/editor.dir/Button/TextureButton.cpp.s
+.PHONY : Button/TextureButton.cpp.s
+
 DrawingField/DrawingField.o: DrawingField/DrawingField.cpp.o
 
 .PHONY : DrawingField/DrawingField.o
@@ -351,6 +405,12 @@ help:
 	@echo "... Button/Button.o"
 	@echo "... Button/Button.i"
 	@echo "... Button/Button.s"
+	@echo "... Button/FileButton.o"
+	@echo "... Button/FileButton.i"
+	@echo "... Button/FileButton.s"
+	@echo "... Button/TextureButton.o"
+	@echo "... Button/TextureButton.i"
+	@echo "... Button/TextureButton.s"
 	@echo "... DrawingField/DrawingField.o"
 	@echo "... DrawingField/DrawingField.i"
 	@echo "... DrawingField/DrawingField.s"

@@ -1,5 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/editor.dir/Button/Button.cpp.o"
+  "CMakeFiles/editor.dir/Button/FileButton.cpp.o"
+  "CMakeFiles/editor.dir/Button/TextureButton.cpp.o"
   "CMakeFiles/editor.dir/DrawingField/DrawingField.cpp.o"
   "CMakeFiles/editor.dir/EnterText/EnterText.cpp.o"
   "CMakeFiles/editor.dir/InteractionWindows/NotificationWindow.cpp.o"

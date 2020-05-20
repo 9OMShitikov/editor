@@ -29,5 +29,4 @@ protected:
     bool is_pressed_ = false;
     sf::RenderWindow* window_ = nullptr;
 };
-
 #endif //EDITOR_BUTTON_H

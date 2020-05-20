@@ -90,6 +90,18 @@
 		<Unit filename="/home/oleg/Public/Oleg/course_2/ded/editor/Button/Button.h">
 			<Option target="editor"/>
 		</Unit>
+		<Unit filename="/home/oleg/Public/Oleg/course_2/ded/editor/Button/FileButton.cpp">
+			<Option target="editor"/>
+		</Unit>
+		<Unit filename="/home/oleg/Public/Oleg/course_2/ded/editor/Button/FileButton.h">
+			<Option target="editor"/>
+		</Unit>
+		<Unit filename="/home/oleg/Public/Oleg/course_2/ded/editor/Button/TextureButton.cpp">
+			<Option target="editor"/>
+		</Unit>
+		<Unit filename="/home/oleg/Public/Oleg/course_2/ded/editor/Button/TextureButton.h">
+			<Option target="editor"/>
+		</Unit>
 		<Unit filename="/home/oleg/Public/Oleg/course_2/ded/editor/DrawingField/DrawingField.cpp">
 			<Option target="editor"/>
 		</Unit>

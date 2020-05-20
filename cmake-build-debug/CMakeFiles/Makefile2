@@ -74,12 +74,12 @@ clean: CMakeFiles/editor.dir/clean
 CMakeFiles/editor.dir/all:
 	$(MAKE) -f CMakeFiles/editor.dir/build.make CMakeFiles/editor.dir/depend
 	$(MAKE) -f CMakeFiles/editor.dir/build.make CMakeFiles/editor.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/oleg/Public/Oleg/course_2/ded/editor/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9 "Built target editor"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/oleg/Public/Oleg/course_2/ded/editor/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11 "Built target editor"
 .PHONY : CMakeFiles/editor.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/editor.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/oleg/Public/Oleg/course_2/ded/editor/cmake-build-debug/CMakeFiles 9
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/oleg/Public/Oleg/course_2/ded/editor/cmake-build-debug/CMakeFiles 11
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/editor.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/oleg/Public/Oleg/course_2/ded/editor/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/editor.dir/rule

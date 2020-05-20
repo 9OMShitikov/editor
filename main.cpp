@@ -1,8 +1,7 @@
 #include <SFML/Graphics.hpp>
 #include <iostream>
 
-#include "EnterText/EnterText.h"
-#include "Button/Button.h"
+#include "Button/FileButton.h"
 #include "ObjectsPalette/ObjectsPalette.h"
 #include "DrawingField/DrawingField.h"
 #include <math.h>

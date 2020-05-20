@@ -7,8 +7,26 @@ CMakeFiles/editor.dir/Button/Button.cpp.o
  /home/oleg/Public/Oleg/course_2/ded/editor/EnterText/EnterText.h
  /home/oleg/Public/Oleg/course_2/ded/editor/InteractionWindows/QuestionWindow.h
  /home/oleg/Public/Oleg/course_2/ded/editor/Menu/Menu.h
+CMakeFiles/editor.dir/Button/FileButton.cpp.o
+ /home/oleg/Public/Oleg/course_2/ded/editor/Button/Button.h
+ /home/oleg/Public/Oleg/course_2/ded/editor/Button/FileButton.cpp
+ /home/oleg/Public/Oleg/course_2/ded/editor/Button/FileButton.h
+ /home/oleg/Public/Oleg/course_2/ded/editor/Button/TextureButton.h
+ /home/oleg/Public/Oleg/course_2/ded/editor/DrawingField/DrawingField.h
+ /home/oleg/Public/Oleg/course_2/ded/editor/EnterText/EnterText.h
+ /home/oleg/Public/Oleg/course_2/ded/editor/InteractionWindows/QuestionWindow.h
+ /home/oleg/Public/Oleg/course_2/ded/editor/Menu/Menu.h
+ /home/oleg/Public/Oleg/course_2/ded/editor/ObjectsPalette/ObjectsPalette.h
+CMakeFiles/editor.dir/Button/TextureButton.cpp.o
+ /home/oleg/Public/Oleg/course_2/ded/editor/Button/Button.h
+ /home/oleg/Public/Oleg/course_2/ded/editor/Button/TextureButton.cpp
+ /home/oleg/Public/Oleg/course_2/ded/editor/Button/TextureButton.h
+ /home/oleg/Public/Oleg/course_2/ded/editor/EnterText/EnterText.h
+ /home/oleg/Public/Oleg/course_2/ded/editor/InteractionWindows/QuestionWindow.h
+ /home/oleg/Public/Oleg/course_2/ded/editor/Menu/Menu.h
 CMakeFiles/editor.dir/DrawingField/DrawingField.cpp.o
  /home/oleg/Public/Oleg/course_2/ded/editor/Button/Button.h
+ /home/oleg/Public/Oleg/course_2/ded/editor/Button/TextureButton.h
  /home/oleg/Public/Oleg/course_2/ded/editor/DrawingField/DrawingField.cpp
  /home/oleg/Public/Oleg/course_2/ded/editor/DrawingField/DrawingField.h
  /home/oleg/Public/Oleg/course_2/ded/editor/EnterText/EnterText.h
@@ -30,6 +48,7 @@ CMakeFiles/editor.dir/Menu/Menu.cpp.o
  /home/oleg/Public/Oleg/course_2/ded/editor/Menu/Menu.h
 CMakeFiles/editor.dir/ObjectsPalette/ObjectsPalette.cpp.o
  /home/oleg/Public/Oleg/course_2/ded/editor/Button/Button.h
+ /home/oleg/Public/Oleg/course_2/ded/editor/Button/TextureButton.h
  /home/oleg/Public/Oleg/course_2/ded/editor/EnterText/EnterText.h
  /home/oleg/Public/Oleg/course_2/ded/editor/InteractionWindows/QuestionWindow.h
  /home/oleg/Public/Oleg/course_2/ded/editor/Menu/Menu.h
@@ -37,6 +56,8 @@ CMakeFiles/editor.dir/ObjectsPalette/ObjectsPalette.cpp.o
  /home/oleg/Public/Oleg/course_2/ded/editor/ObjectsPalette/ObjectsPalette.h
 CMakeFiles/editor.dir/main.cpp.o
  /home/oleg/Public/Oleg/course_2/ded/editor/Button/Button.h
+ /home/oleg/Public/Oleg/course_2/ded/editor/Button/FileButton.h
+ /home/oleg/Public/Oleg/course_2/ded/editor/Button/TextureButton.h
  /home/oleg/Public/Oleg/course_2/ded/editor/DrawingField/DrawingField.h
  /home/oleg/Public/Oleg/course_2/ded/editor/EnterText/EnterText.h
  /home/oleg/Public/Oleg/course_2/ded/editor/InteractionWindows/QuestionWindow.h

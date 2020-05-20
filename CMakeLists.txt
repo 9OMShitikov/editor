@@ -12,7 +12,7 @@ add_executable(editor main.cpp
                Button/Button.cpp Button/Button.h
                Menu/Menu.cpp Menu/Menu.h
                InteractionWindows/QuestionWindow.cpp InteractionWindows/QuestionWindow.h
-               InteractionWindows/NotificationWindow.cpp InteractionWindows/NotificationWindow.h ObjectsPalette/ObjectsPalette.cpp ObjectsPalette/ObjectsPalette.h DrawingField/DrawingField.cpp DrawingField/DrawingField.h)
+               InteractionWindows/NotificationWindow.cpp InteractionWindows/NotificationWindow.h ObjectsPalette/ObjectsPalette.cpp ObjectsPalette/ObjectsPalette.h DrawingField/DrawingField.cpp DrawingField/DrawingField.h Button/FileButton.cpp Button/FileButton.h Button/TextureButton.cpp Button/TextureButton.h)
 
 
 target_link_libraries(editor pthread sfml-system sfml-window sfml-graphics sfml-audio)
